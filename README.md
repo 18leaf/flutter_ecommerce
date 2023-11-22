@@ -40,10 +40,6 @@ Flutter Ecommerce UI with state management for shopping cart and dynamically cre
 **lib/main.dart**
 - Initializes the application and sets up navigation and state management.
 
-## Usage
-Explain how users can interact with your app, focusing on key functionalities.
-
-
 ## Future Improvements
 - Implement User Profiles
 - Log In/Out

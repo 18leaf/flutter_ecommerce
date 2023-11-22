@@ -15,7 +15,7 @@ Flutter Ecommerce UI with state management for shopping cart and dynamically cre
 - Model classes for data representation of cart and shoe items.
 
 ## Demo Screenshots
-![Shop Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/shop_page.png)
+[Shop Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/shop_page.png)
 ![Cart Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/cart_page.png)
 
 

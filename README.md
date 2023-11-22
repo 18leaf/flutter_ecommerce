@@ -16,7 +16,7 @@ Flutter Ecommerce UI with state management for shopping cart and dynamically cre
 
 ## Demo Screenshots
 ![Shop Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/shop_page.png)
-![Cart Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/cart_page.png)
+![Cart Page](https://github.com/18leaf/flutter_ecommerce/blob/main/lib/images/cartPage.png)
 
 
 ## Project Structure
